@@ -12,7 +12,7 @@
 [LinkedIn](https://www.linkedin.com/in/yankovich-iryna-a30510b3/)
 <br>
 
-![Facial.image](/~/Desktop/rsschool-cv/facialimage.jpg "Facial image")<br>
+![Profile photo](/~/Desktop/rsschool-cv/facialimage.jpg "Facial image")<br>
 
 [Facial.Image](https://media-exp1.licdn.com/dms/image/C4E03AQEC0qczPHwFWQ/profile-displayphoto-shrink_400_400/0/1600174542810?e=1675900800&v=beta&t=dYMnyn6w5MjBUDbUTsfhozPcnAP_S2-cQFcADU_Gp-M)<br>
 
@@ -95,9 +95,9 @@ document.write("Hello World!");
 
 ### Languages:
 
-- English \- Advanced (Faculty of Foreign languages)<br>
-- German \- Upper Intermediate (Faculty of foreign Languages)<br>
-- Italian \- Upper Intermediate (Italian cources 3 years at Brest State University)<br>
+- English \- Advanced<br>
+- German \- Upper Intermediate<br>
+- Italian \- Upper Intermediate<br>
 - Polish \- Basic<br>
 - Spanish \- Basic<br>
 - Russian \- Native<br>

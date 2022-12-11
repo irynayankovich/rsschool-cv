@@ -9,8 +9,7 @@
 **E-mail:** iryna.yankovi4@gmail.com<br>
 **Telegram:** @yarishe4ka<br>
 **Discord:** @irynayankovich<br>
-[LinkedIn](https://www.linkedin.com/in/yankovich-iryna-a30510b3/)
-<br>
+[LinkedIn](https://www.linkedin.com/in/yankovich-iryna-a30510b3/)<br>
 
 ![Profile photo](/~/Desktop/rsschool-cv/facialimage.jpg "Facial image")<br>
 
